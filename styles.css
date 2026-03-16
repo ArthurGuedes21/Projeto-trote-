@@ -83,7 +83,7 @@ body{
     box-shadow:0 4px 12px rgba(0,0,0,0.2);
 }
 .objetivo{
-        background:white;
+    background:white;
     width:70%;
     margin:-40px auto 50px auto; /* faz a caixa subir sobre o azul */
     padding:30px;
